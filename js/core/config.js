@@ -96,7 +96,7 @@ const CONFIG = {
     {
       date: "First Meeting",
       title: "Time Stopped Here",
-      quote: "You walked in and the ambient noise of the world just... disappeared. Like someone had pressed mute on everything that wasn't you.",
+      quote: "Kamu melangkah masuk dan kebisingan dunia seketika lenyap. Seolah seseorang menekan mute pada semua yang bukan kamu.",
       icon: "✧",
     },
     {
